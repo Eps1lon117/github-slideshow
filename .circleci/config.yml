@@ -39,3 +39,7 @@ jobs:
           name: Run tests
           # This assumes pytest is installed via the install-package step above
           command: pytest
+x=1
+for i in rane(0,10):
+    if i=1:
+        print("hello world")
